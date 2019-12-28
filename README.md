@@ -37,4 +37,4 @@ Pivot tables were deeply helpful, enabling me to save a ton of time while target
 
 Not all of these questions and charts made it into my final product. Some I didn't think compelling as marketing materials or attractive enough to show off, even if they were very interesting.
 
-**coming soon: link to 2.0 project with this data, a Tableau dashboard exploring disease statistics.*
+**If you want to see more of this data, here is a [link](https://github.com/jraiaromano/Nashville_City_Cemetery_Tableau) to my Tableau dashboard exploring disease demographics.*
